@@ -1,0 +1,3 @@
+[submodule "facorsi"]
+	path = facorsi
+	url = https://github.com/franciscoacorsi/facorsi.git
